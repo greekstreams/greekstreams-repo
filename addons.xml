@@ -2,7 +2,7 @@
 <addons>
     <addon id="plugin.video.greekstreams"
            name="GreekStreams"
-           version="1.0.1" <!-- Must match video addon's version -->
+           version="1.0.1"
            provider-name="GreekStreams Team">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
